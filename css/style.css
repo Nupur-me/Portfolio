@@ -203,7 +203,7 @@ nav img {
 .menu-bar::after {
   height: 0.2rem;
   border-radius: 0.5rem;
-  background: rgba(24, 185, 207, 0.9);
+  background: linear-gradient(76.35deg, #801ae6 15.89%, #a21ae6 89.75%);
   transition: all 0.5s ease-in-out;
 }
 
@@ -483,7 +483,6 @@ main {
 .about-desc p {
   font-size: 1.85rem; 
   line-height: 1.6; 
-  color: #333; 
 }
 
 .skills-container {
